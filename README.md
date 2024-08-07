@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there! 👋
 
 - I'm a student majoring in the communication engineering at BUPT
 - In fact, I don't know what I will do here exactly. But maybe I will do something ramdonly.
