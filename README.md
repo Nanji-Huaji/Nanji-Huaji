@@ -1,7 +1,9 @@
 ## Hey there! 👋
 
-- I'm a student majoring in the communication engineering at BUPT
-- In fact, I don't know what I will do here exactly. But maybe I will do something ramdonly.
+- 🌱I'm a student majoring in the communication engineering at BUPT
+- 💬In fact, I don't know what I will do here exactly. But maybe I will do something ramdonly.
+- 🔭 I’m currently working on machine learning.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanji-Huaji)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Nanji-Huaji/Nanji-Huaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
