@@ -1,9 +1,9 @@
 ## Hey there! 👋
 
-- 🌱I'm a student majoring in the communication engineering at BUPT
+- 🌱I'm a student majoring in the communication engineering at Beijing University of Posts and Telecommunications.
 - 💬In fact, I don't know what I will do here exactly. But maybe I will do something ramdonly.
-- 🔭 I’m currently working on machine learning.
-
+- 🔭 I’m currently working on machine learning. Moreover, I'm focusing on language model inference and affective computing.
+- 📫 How to reach me: hua_ji@outlook.com
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanji-Huaji)](https://github.com/anuraghazra/github-readme-stats)
