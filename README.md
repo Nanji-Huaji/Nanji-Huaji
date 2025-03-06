@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-- 🌱I'm a student majoring in the communication engineering at Beijing University of Posts and Telecommunications.
+- 🌱I'm a student majoring in the communication engineering at Beijing University of Posts and Telecommunications. I'm looking forward to being a researcher one day!
 - 💬In fact, I don't know what I will do here exactly. But maybe I will do something ramdonly.
 - 🔭 I’m currently working on machine learning, especially on language model inference and affective computing.
 - 📫 How to reach me: hua_ji@outlook.com
