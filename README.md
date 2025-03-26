@@ -3,6 +3,7 @@
 - 🌱I'm a student majoring in the communication engineering at Beijing University of Posts and Telecommunications. I'm looking forward to being a researcher one day!
 - 💬In fact, I don't know what I will do here exactly. But maybe I will do something ramdonly.
 - 🔭 I’m currently working on machine learning, especially on language model inference and affective computing.
+- 💻 I'm currently learning ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff) ![Rust](https://img.shields.io/badge/-rust-black?style=flat-square&logo=rust&logoColor=fff)
 - 📫 How to reach me: hua_ji@outlook.com
 
 
@@ -11,7 +12,7 @@
 <!--
 **Nanji-Huaji/Nanji-Huaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
