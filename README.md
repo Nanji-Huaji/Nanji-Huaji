@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-- 🌱I'm a student majoring in the communication engineering at Beijing University of Posts and Telecommunications. I'm looking forward to being a researcher one day!
+- 🌱I'm a student majoring in the Electronic Information Engineering at Beijing University of Posts and Telecommunications. I'm looking forward to being a researcher one day!
 - 💬In fact, I don't know what I will do here exactly. But maybe I will do something ramdonly.
 - 🔭 I’m currently working on machine learning, especially on language model inference and affective computing.
 - 💻 I'm currently learning ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff) ![Rust](https://img.shields.io/badge/-rust-black?style=flat-square&logo=rust&logoColor=fff) ![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin&logoColor=fff)
