@@ -1,11 +1,12 @@
 ## Hey there! 👋
 
-- 🌱I'm a student majoring in Electronic Information Engineering at Beijing University of Posts and Telecommunications. I'm looking forward to being a researcher one day!
-- 💬In fact, I don't know what I will do here exactly. But maybe I will do something randomly.
+- 🌱 I'm a student majoring in Electronic Information Engineering at Beijing University of Posts and Telecommunications. I'm looking forward to being a researcher one day!
+- 💬 In fact, I don't know what I will do here exactly. But maybe I will do something randomly.
 - 🔭 I’m currently working on machine learning, especially on language model inference and affective computing.
-- 💻 I'm currently learning ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff) ![Rust](https://img.shields.io/badge/-rust-black?style=flat-square&logo=rust&logoColor=fff) ![Kotlin](https://img.shields.io/badge/-kotlin-black?style=flat-square&logo=kotlin&logoColor=fff)
+- 💻 I'm currently learning Python, Rust and Kotlin.
 - 📫 How to reach me: hua_ji@outlook.com
 
+![Skills](https://skillicons.dev/icons?i=python,rust,kotlin,pytorch,linux,git)
 
 ![GitHub Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
