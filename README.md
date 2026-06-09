@@ -6,7 +6,13 @@
 - 💻 I'm currently learning Python, Rust and Kotlin.
 - 📫 How to reach me: hua_ji@outlook.com
 
+### Languages and Tools
+
 ![Skills](https://skillicons.dev/icons?i=python,rust,kotlin,pytorch,linux,git)
+
+### GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Nanji-Huaji&theme=default&hide_border=true)
 
 ![GitHub Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
