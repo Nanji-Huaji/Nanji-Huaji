@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-- 🌱 I'm a student majoring in Electronic Information Engineering at Beijing University of Posts and Telecommunications. I'm looking forward to being a researcher one day!
+- 🌱 I'm a student majoring in Electronic Information Engineering at Beijing University of Posts and Telecommunications and an incoming ph. D student at Southern University of Science and Technology. I'm looking forward to being a researcher one day!
 - 💬 In fact, I don't know what I will do here exactly. But maybe I will do something randomly.
 - 🔭 I’m currently working on machine learning, especially on language model inference and affective computing.
 - 💻 I'm currently learning Python, Rust and Kotlin.
